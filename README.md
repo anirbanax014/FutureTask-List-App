@@ -49,16 +49,23 @@ A beautifully designed, feature-rich task management application with a futurist
 - **Smooth Animations**: Delightful micro-interactions throughout
 - **Accessibility**: High contrast mode and reduced motion support
 
+## 🌐 Live Demo
+
+Check out the live demo of FutureTasks:  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://your-deployment-link-here.com)
+
+> **Note**: The demo is hosted on [Vercel](https://vercel.com) for fast and reliable access.
+
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](https://z-cdn-media.chatglm.cn/files/31f3655b-6214-4e43-89ef-c94e6727e99e_pasted_image_1756632661633.png?auth_key=1788171688-7242abd1315e4bfd9c141a29e1e75895-0-b6de5e6e6b240970270f4540b452b275)
+![Main Interface](https://z-cdn-media.chatglm.cn/files/31f3655b-6214-4e43-89ef-c94e6727e99e_pasted_image_1756632661633.png)
 
 ### Task Creation
-![Task Creation](https://z-cdn-media.chatglm.cn/files/111c1fcb-a71b-4d30-b2d7-da170be82839_pasted_image_1756635913557.png?auth_key=1788171688-1402e6f0674441478e765f737ae7545d-0-f47cb1c34ad3a76b8744ebb7e659d55c)
+![Task Creation](https://z-cdn-media.chatglm.cn/files/111c1fcb-a71b-4d30-b2d7-da170be82839_pasted_image_1756635913557.png)
 
 ### Statistics Dashboard
-![Statistics Dashboard](https://z-cdn-media.chatglm.cn/files/38166031-1f09-47f5-8709-1b78a320cc59_pasted_image_1756635917783.png?auth_key=1788171688-87f00bac907841afa837792c90c8c857-0-b3aa72767b545c9583021fddc220c616)
+![Statistics Dashboard](https://z-cdn-media.chatglm.cn/files/38166031-1f09-47f5-8709-1b78a320cc59_pasted_image_1756635917783.png)
 
 ## 🛠️ Installation
 
@@ -69,4 +76,4 @@ A beautifully designed, feature-rich task management application with a futurist
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/futuretasks.git
+   git clone [https://github.com/yourusername/futuretasks.git](https://github.com/anirbanax014/FutureTask-List-App.git)
