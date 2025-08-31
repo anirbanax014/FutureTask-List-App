@@ -56,17 +56,6 @@ Check out the live demo of FutureTasks:
 
 > **Note**: The demo is hosted on [Vercel](https://vercel.com) for fast and reliable access.
 
-## 📸 Screenshots
-
-### Main Interface
-![Main Interface](https://z-cdn-media.chatglm.cn/files/31f3655b-6214-4e43-89ef-c94e6727e99e_pasted_image_1756632661633.png)
-
-### Task Creation
-![Task Creation](https://z-cdn-media.chatglm.cn/files/111c1fcb-a71b-4d30-b2d7-da170be82839_pasted_image_1756635913557.png)
-
-### Statistics Dashboard
-![Statistics Dashboard](https://z-cdn-media.chatglm.cn/files/38166031-1f09-47f5-8709-1b78a320cc59_pasted_image_1756635917783.png)
-
 ## 🛠️ Installation
 
 ### Prerequisites
