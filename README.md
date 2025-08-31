@@ -54,7 +54,7 @@ A beautifully designed, feature-rich task management application with a futurist
 Check out the live demo of FutureTasks:  
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://your-deployment-link-here.com)
 
-> **Note**: The demo is hosted on [Vercel](https://vercel.com) for fast and reliable access.
+> **Note**: The demo is hosted on [Vercel](https://future-task-beta.vercel.app/) for fast and reliable access.
 
 ## 🛠️ Installation
 
